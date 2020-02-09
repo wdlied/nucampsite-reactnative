@@ -12,7 +12,7 @@ class Directory extends Component {
         };
     }
 
-    static navigationOption = {
+    static navigationOptions = {
         title: 'Directory'
     };
 
