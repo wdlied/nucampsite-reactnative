@@ -24,3 +24,6 @@ npm install react-redux@5.0.7
 npm install redux-thunk@2.2.0
 npm install redux-logger@3.0.6
 ```
+
+### Exercise Forms
+npm install react-native-datepicker@1.7.2
