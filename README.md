@@ -32,3 +32,8 @@ npm install redux-logger@3.0.6
 ```
 npm install react-native-datepicker@1.7.2
 ```
+
+### Exercise: Swipeout and Deleting Favorites
+```
+npm install react-native-swipeout@2.3.6
+```
