@@ -37,3 +37,8 @@ npm install react-native-datepicker@1.7.2
 ```
 npm install react-native-swipeout@2.3.6
 ```
+
+### Exercise: Animatable
+```
+npm install react-native-animatable@1.3.3
+```
