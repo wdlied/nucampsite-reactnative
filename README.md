@@ -7,6 +7,9 @@ Note: If at the end of this exercise, you find that you are having trouble getti
 
 ```
 json-server --watch db.json -p 3001 -d 2000 -H <your computer's IP address here - the same one as in your baseUrl.js file>
+
+
+
 ```
 
 ### Install Redux and more
@@ -26,4 +29,6 @@ npm install redux-logger@3.0.6
 ```
 
 ### Exercise Forms
+```
 npm install react-native-datepicker@1.7.2
+```
