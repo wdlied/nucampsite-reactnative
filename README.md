@@ -42,3 +42,8 @@ npm install react-native-swipeout@2.3.6
 ```
 npm install react-native-animatable@1.3.3
 ```
+
+### Exercise: Perist Redux Store
+```
+npm install redux-persist@5.9.1
+```
