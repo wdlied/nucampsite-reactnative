@@ -47,3 +47,8 @@ npm install react-native-animatable@1.3.3
 ```
 npm install redux-persist@5.9.1
 ```
+
+### Exercise: Secure Store
+```
+npm install expo-secure-store@7.0.0
+```
