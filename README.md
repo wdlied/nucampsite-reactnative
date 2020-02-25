@@ -52,3 +52,8 @@ npm install redux-persist@5.9.1
 ```
 npm install expo-secure-store@7.0.0
 ```
+
+### Exercise: Local Notifications
+```
+npm install expo-permissions@7.0.0
+```
