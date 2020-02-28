@@ -57,3 +57,8 @@ npm install expo-secure-store@7.0.0
 ```
 npm install expo-permissions@7.0.0
 ```
+
+### Exercise: Sending Email
+```
+npm install expo-mail-composer@7.0.0
+```
