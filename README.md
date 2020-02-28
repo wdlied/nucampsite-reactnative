@@ -62,3 +62,8 @@ npm install expo-permissions@7.0.0
 ```
 npm install expo-mail-composer@7.0.0
 ```
+
+### Exercise: Picking an Image
+```
+npm install expo-image-picker@7.0.0
+```
