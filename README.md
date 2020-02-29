@@ -67,3 +67,8 @@ npm install expo-mail-composer@7.0.0
 ```
 npm install expo-image-picker@7.0.0
 ```
+
+### Exercise: Network Info
+```
+npm install @react-native-community/netinfo@3.2.1
+```
