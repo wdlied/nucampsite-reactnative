@@ -72,3 +72,10 @@ npm install expo-image-picker@7.0.0
 ```
 npm install @react-native-community/netinfo@3.2.1
 ```
+
+### Workshop: Image Manipulator
+```
+npm install expo-image-manipulator@7.0.0
+```
+For the workshop, the CameraRoll.save did not work.. needed to install
+https://docs.expo.io/versions/latest/sdk/media-library/#medialibrarysavetolibraryasynclocaluri
